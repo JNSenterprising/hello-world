@@ -1,5 +1,4 @@
 # hello-world
-first repository
 
 Hello homo sapiens, homo deus's and all other entities reading this repository at some further time into the future.
 
